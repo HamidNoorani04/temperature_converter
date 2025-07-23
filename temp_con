@@ -1,0 +1,33 @@
+
+#f_to_c
+def f_to_c(f):
+   return 5*(f-32)/9
+   f_to_c(f-1)
+    
+ 
+#c_to_f
+def c_to_f(c):
+   return (9 / 5) * c + 32
+    
+
+# selection and output
+
+input_of_temp = input("Enter 'c' to convert c into f or Enter 'f' to convert f into c : ").lower()
+
+if(input_of_temp == "c"):
+   c = int(input("Enter the temperature in c: "))
+   f = c_to_f(c)
+   print(f" {round (f , 2)}°f ")
+elif(input_of_temp == "f"):
+   f = float(input("Enter the temperature in F: "))
+   c = f_to_c(f)
+   print(f" {round (c , 2)}°c ")
+else:
+   print("Error : invalid entry ")   
+      
+   
+
+
+
+ 
+
