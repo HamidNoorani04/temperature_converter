@@ -1,5 +1,7 @@
 # 🌡️ Temperature Converter (Celsius ↔ Fahrenheit)
 
+### 📧 hamidnoorani04@gmail.com 🔗 [GitHub](https://github.com/HamidNoorani04)🔗 [LinkedIn](https://linkedin.com/in/abdul-hamid-noorani-37258a351)
+
 A beginner-friendly Python script to convert temperatures between **Celsius and Fahrenheit** using simple math and user input.
 
 ---
