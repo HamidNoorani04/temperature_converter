@@ -43,3 +43,9 @@ Enter the temperature in F: 100
 37.78°c
 
 ```
+
+## 👨‍💻 Author
+- **Abdul Hamid Noorani
+Python Developer & Learner**
+
+
